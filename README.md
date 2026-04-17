@@ -1,1 +1,1 @@
-# pythonproject18
+# Декоратори @property та декоратори класів
